@@ -1,0 +1,53 @@
+name;Gene ID;published data;our result
+miR156a;AT2G25095.1;"loop-to-base(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR156b;AT4G30972.1;"loop-to-base(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR156c;AT4G31877.1;"loop-to-base(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR156d;AT5G10945.1;"loop-to-base(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR156e;AT5G11977.1;"Probable loop-to-base(B Moro, et al.2018); loop-to-base(L Gonzalo, et al.2022)";loop-to-base
+miR156h;AT5G55835.1;"loop-to-base(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR159a;AT1G73687.1;"Sequential loop-to-base(NG Bologna, et al.2009; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";sequential loop-to-base
+miR159b;AT1G18075.1;"Sequential loop-to-base(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";sequential loop-to-base
+miR160a;AT2G39175.1;"loop-to-base(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR160b;AT4G17788.1;"loop-to-base(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR160c;AT5G46845.1;"loop-to-base(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR161;AT1G48267.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018)";two kinds of base-to-loop collateral miRNAs-not abortive
+miR162a;AT5G08185.1;"loop-to-base(B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR163;AT1G66725.1;"Sequential base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018)";sequential base-to-loop
+miR165a;AT1G01183.1;"base-to-loop(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";base-to-loop
+miR166f;AT5G43603.1;base-to-loop(B Moro, et al.2018);base-to-loop
+miR166g;AT5G63715.1;base-to-loop(B Moro, et al.2018);base-to-loop
+miR167a;AT3G22886.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";base-to-loop
+miR167c;AT3G04765.1;"base-to-loop(B Moro, et al.2018; L Gonzalo, et al.2022)";base-to-loop
+miR167d;AT1G31173.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";base-to-loop
+miR168b;AT5G45307.1;"base-to-loop(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";base-to-loop
+miR169a;AT3G13405.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";base-to-loop
+miR169b;AT5G24825.1;"Sequential base-to-loop(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018)";sequential base-to-loop
+miR169c;AT5G39635.1;probable Sequential base-to-loop(B Moro, et al.2018);sequential base-to-loop
+miR169f;AT3G14385.1;"Sequential base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";sequential base-to-loop
+miR169g;AT4G21595.1;"Sequential base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018)";sequential base-to-loop
+miR169i;AT3G26812.1;"Sequential base-to-loop(B Moro, et al.2018; L Gonzalo, et al.2022)";sequential base-to-loop
+miR169j;AT3G26813.1;"Sequential base-to-loop(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";sequential base-to-loop
+miR169L;AT3G26816.1;"Sequential base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";sequential base-to-loop
+miR169m;AT3G26818.1;"Sequential base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";sequential base-to-loop
+miR169n;AT3G26819.1;"Sequential base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";sequential base-to-loop
+miR170;AT5G66045.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";base-to-loop
+miR171b;AT1G11735.1;"loop-to-base(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR171c;AT1G62035.1;"loop-to-base(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR172b;AT5G04275.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";base-to-loop
+miR319a;AT4G23713.1;"Sequential loop-to-base(NG Bologna, et al.2009; NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";sequential loop-to-base
+miR319b;AT5G41663.1;"Sequential loop-to-base(NG Bologna, et al.2009; NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";sequential loop-to-base
+miR319c;AT2G40805.1;"Sequential loop-to-base(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";sequential loop-to-base
+miR393b;AT3G55734.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";base-to-loop
+miR394a;AT1G20375.1;"Sequential base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018)";sequential base-to-loop
+miR395b;AT1G26975.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018)";base-to-loop
+miR395f;AT1G69797.1;base-to-loop(B Moro, et al.2018);base-to-loop
+miR397a;AT4G05105.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";base-to-loop
+miR397b;AT4G13555.1;base-to-loop (B Moro, et al.2018);base-to-loop
+miR399a;AT1G29265.1;"base-to-loop(B Moro, et al.2018; L Gonzalo, et al.2022)";base-to-loop
+miR399d;AT2G34202.1;"base-to-loop(B Moro, et al.2018; L Gonzalo, et al.2022)";base-to-loop
+miR399f;AT2G34208.1;base-to-loop(L Gonzalo, et al.2022);base-to-loop
+miR400;AT1G32582.1;"loop-to-base(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR402;AT1G77235.1;"Sequential base-to-loop(B Moro, et al.2018; L Gonzalo, et al.2022)";sequential base-to-loop
+miR447b;AT4G03455.1;"Sequential base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018)";sequential base-to-loop
+miR827;AT3G59884.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018)";base-to-loop
+miR864;AT1G19464.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";base-to-loop

@@ -1,0 +1,44 @@
+name;Gene ID;published data;our result
+miR156f;AT5G26147.1;"Probable loop-to-base(B Moro, et al.2018); loop-to-base(L Gonzalo, et al.2022)";two kinds of base-to-loop-not abortive
+miR157c;AT3G18217.1;"Probable loop-to-base(B Moro, et al.2018); loop-to-base(L Gonzalo, et al.2022)";bidirectional-not abortive
+miR158a;AT3G10745.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR159c;AT2G46255.1;Probable Sequential loop-to-base(B Moro, et al.2018);loop-to-base
+miR162b;AT5G23065.1;"Probable loop-to-base(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR164b;AT5G01747.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR164c;AT5G27807.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR165b;AT4G00885.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR166a;AT2G46685.1;"base-to-loop(B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR166b;AT3G61897.1;"base-to-loop(B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR166e;AT5G41905.1;"base-to-loop(B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-two are abortive
+miR167b;AT3G63375.1;"base-to-loop(NG Bologna, et al.2013);loop-to-base(L Gonzalo, et al.2022)";bidirectional-two are abortive
+miR168a;AT4G19395.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-two are abortive
+miR169d;AT1G53683.1;"Sequential base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-not abortive
+miR169e;AT1G53687.1;"Sequential base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR171a;AT3G51375.1;"base-to-loop(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-- not abortive
+miR172a;AT2G28056.1;"base-to-loop(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR172c;AT3G11435.1;Probable base-to-loop(B Moro, et al.2018);bidirectional-two are abortive
+miR172d;AT3G55512.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR172e;AT5G59505.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR173;AT3G23125.1;"base-to-loop(B Moro, et al.2018; L Gonzalo, et al.2022)";two kinds of base-to-loop-not abortive
+miR2111a;AT3G09285.1;Probable base-to-loop(B Moro, et al.2018);bidirectional-one is abortive
+miR390a;AT2G38325.1;"base-to-loop(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR390b;AT5G58465.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR391;AT5G60408.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR393a;AT2G39885.1;"base-to-loop(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-not abortive
+miR394b;AT1G76135.1;"Sequential base-to-loop(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR395a;AT1G26973.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018)";bidirectional-one is abortive
+miR395c;AT1G26985.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018)";bidirectional-one is abortive
+miR395d;AT1G69792.1;Probable base-to-loop(B Moro, et al.2018);loop-to-base
+miR396a;AT2G10606.1;"base-to-loop(B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR396b;AT5G35407.1;"base-to-loop(NG Bologna, et al.2013; U Chorostecki, et al.2017; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-not abortive
+miR398a;AT2G03445.1;"Probable base-to-loop(U Chorostecki, et al.2017; B Moro, et al.2018)";bidirectional-not abortive
+miR398b;AT5G14545.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR398c;AT5G14565.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR399b;AT1G63005.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";three kinds of base-to-loop-one is abortive
+miR403;AT2G47275.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR408;AT2G47015.1;"base-to-loop(NG Bologna, et al.2013); loop-to-base (B Moro, et al.2018; L Gonzalo, et al.2022)";loop-to-base
+miR472a;AT1G12294.1;"Sequential base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018)";bidirectional-not abortive
+miR771a;AT3G53015.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018)";bidirectional-one is abortive
+miR779;AT2G22496.1;"Sequential loop-to-base(NG Bologna, et al.2013; B Moro, et al.2018)";loop-to-base
+miR824;AT4G24415.1;"base-to-loop(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-one is abortive
+miR825;AT2G26211.1;"loop-to-base(NG Bologna, et al.2013; B Moro, et al.2018; L Gonzalo, et al.2022)";bidirectional-not abortive

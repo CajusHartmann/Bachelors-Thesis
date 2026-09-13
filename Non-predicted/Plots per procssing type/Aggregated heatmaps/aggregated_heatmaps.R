@@ -4,6 +4,45 @@
 library(tidyverse)
 source("C:/Users/cajus/OneDrive/Dokumente/Bildung/Studium/6. Semester/Bachelorarbeit/Code/Create heatmaps/functions.R")
 
+####################################################################
+####################################################################
+####################################################################
+#This part was originally in another script:
+
+#First Step: Group the miRNAs (based on processing type) with the file from Yan etal, 2024 nature plants (doi: 10.1038/s41477-024-01725-9)
+#Therefore I need to check which table to use from the file (I check if the file with the 147 DCL1 dependent miRNAs contains all miRNAs that are in the other files)
+file_147 <- read.table("C:/Users/cajus/OneDrive/Dokumente/Bildung/Studium/6. Semester/Bachelorarbeit/Code/miRNA_data/processing modes/147.csv", header = TRUE, sep = ";")
+file_52 <- read.table("C:/Users/cajus/OneDrive/Dokumente/Bildung/Studium/6. Semester/Bachelorarbeit/Code/miRNA_data/processing modes/52.csv", header = TRUE, sep = ";")
+file_43 <- read.table("C:/Users/cajus/OneDrive/Dokumente/Bildung/Studium/6. Semester/Bachelorarbeit/Code/miRNA_data/processing modes/43.csv", header = TRUE, sep = ";")
+file_SE_HYL1 <- read.table("C:/Users/cajus/OneDrive/Dokumente/Bildung/Studium/6. Semester/Bachelorarbeit/Code/miRNA_data/processing modes/SE_HYL1.csv", header = TRUE, sep = ";")
+
+length(intersect(file_147$name, file_52$name)) #result: 52 --> no new miRNAs in this file
+length(intersect(file_147$name, file_43$name)) #result: 43 --> no new miRNAs in this file
+length(intersect(file_147$name, file_SE_HYL1$name)) #result: 103 --> 13 new miRNAs in this file because it contains 116 miRNAs
+#find the 13 new miRNAs from this file
+new <- file_SE_HYL1[!file_SE_HYL1$name %in% intersect(file_147$name, file_SE_HYL1$name), ]
+new$patterns <- new$processing.pattern
+#types like "bidirection-BTL", "bidirection-LTB" and "bidirection-SBTL" are replaced with Bidirectional
+new$patterns <- sub("bidirection-.*", "Bidirectional", new$patterns)
+#create new data frame with all miRNAs from Yan et. al (147 + 13)
+complete <- rbind(file_147[ ,c(1,3)], new[ ,c(1,5)])
+length(complete[[1]])
+
+#names of the miRNAs for which I know 3p and 5p
+names <- read.table(file = "C:/Users/cajus/OneDrive/Dokumente/Bildung/Studium/6. Semester/Bachelorarbeit/Code/Create heatmaps/regions_miRNAs.csv", header = TRUE, sep = ",")[,1]
+length(intersect(names, complete[[1]])) #result: 61 --> for 61 of the 95 miRNAs with 3p and 5p we know the processing type
+
+#read file with positions of the regions of the miRNAs
+positions <- read.table(file = "C:/Users/cajus/OneDrive/Dokumente/Bildung/Studium/6. Semester/Bachelorarbeit/Code/Create heatmaps/regions_miRNAs.csv", header = TRUE, sep = ",")
+#assign the miRNAs to their group
+merged <- merge(positions, complete, by.x = "name", by.y = "name")
+all <- split(merged, merged$pattern)
+length(all$SLTB[[1]])
+write.table(merged, file = "C:/Users/cajus/OneDrive/Dokumente/Bildung/Studium/6. Semester/Bachelorarbeit/Code/Create heatmaps/overlap_Yan_and_93.csv", sep = ",", row.names = FALSE, quote = FALSE)
+####################################################################
+####################################################################
+####################################################################
+
 #read file with overlaps of the 160 miRNAs from Yan and the 95 for which we know 3p and 5p
 merged <- read.csv("C:/Users/cajus/OneDrive/Dokumente/Bildung/Studium/6. Semester/Bachelorarbeit/Code/Create heatmaps/overlap_Yan_and_95_5pFirst.csv")
 all <- split(merged, merged$pattern)

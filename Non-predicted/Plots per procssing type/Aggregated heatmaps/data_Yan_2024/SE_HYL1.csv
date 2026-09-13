@@ -1,0 +1,117 @@
+name;SE-;HYL1-;processing pattern
+miR158a;dependent;dependent;bidirection-BTL
+miR158b;dependent;no reads;BTL
+miR160b;no reads;dependent;LTB
+miR160c;dependent;dependent;LTB
+miR161;dependent;dependent;BTL
+miR162a;dependent;dependent;LTB
+miR162b;affect efficiency;affect efficiency;bidirection-LTB
+miR164b;dependent;dependent;bidirection-BTL
+miR166f;dependent;dependent;BTL
+miR168b;dependent;dependent;BTL
+miR169d;independent;no reads;bidirection-SBTL
+miR169g;dependent;dependent;SBTL
+miR173;dependent;dependent;BTL
+miR1888b;dependent;dependent;LTB
+miR394a;dependent;dependent;SBTL
+miR395c;independent;no reads;bidirection-BTL
+miR395f;dependent;no reads;BTL
+miR396a;dependent;affect accuracy;bidirection-BTL
+miR397a;dependent;no reads;BTL
+miR398b;dependent;dependent;bidirection-BTL
+miR403;dependent;dependent;bidirection-BTL
+miR5012;dependent;dependent;LTB
+miR775a;dependent;dependent;LTB
+miR825a;dependent;dependent;bidirection-LTB
+miR831a;affect accuracy;no reads;BTL
+miR833a;dependent;dependent;LTB
+miR864a;independent;affect accuracy;BTL
+miR156a;affect accuracy;affect accuracy;LTB
+miR156b;no reads;affect accuracy;LTB
+miR156c;dependent;affect efficiency;LTB
+miR156h;dependent;affect efficiency;LTB
+miR157c;no reads;dependent;LTB
+miR159a;affect efficiency;affect efficiency;SLTB
+miR160a;affect accuracy;dependent;LTB
+miR163;dependent;affect accuracy;SBTL
+miR164c;dependent;affect accuracy;bidirection-BTL
+miR165a;affect efficiency;affect efficiency;BTL
+miR165b;dependent;independent;bidirection-BTL
+miR166a;affect efficiency;dependent;bidirection-BTL
+miR166e;dependent;affect accuracy;bidirection-BTL
+miR167b;affect accuracy;affect accuracy;bidirection-BTL
+miR167d;dependent;affect accuracy;BTL
+miR169a;affect accuracy;affect accuracy;BTL
+miR169c;affect accuracy;no reads;SBTL
+miR169e;affect accuracy;independent;SBTL
+miR170;affect accuracy;affect efficiency;BTL
+miR171a;dependent;independent;bidirection-BTL
+miR171b;affect efficiency;dependent;LTB
+miR171c;affect accuracy;affect accuracy;LTB
+miR172b;affect accuracy;affect accuracy;BTL
+miR172c;affect accuracy;affect accuracy;bidirection-BTL
+miR172d;independent;independent;bidirection-BTL
+miR172e;independent;independent;bidirection-BTL
+miR1888a;affect accuracy;affect accuracy;LTB
+miR390a;dependent;independent;bidirection-BTL
+miR390b;affect accuracy;dependent;LTB
+miR391;affect accuracy;affect accuracy;bidirection-BTL
+miR393b;affect accuracy;affect accuracy;BTL
+miR394b;dependent;dependent;bidirection-BTL
+miR395a;affect accuracy;affect accuracy;bidirection-BTL
+miR395b;affect accuracy;independent;BTL
+miR396b;independent;independent;bidirection-BTL
+miR397b;affect accuracy;no reads;BTL
+miR398c;affect accuracy;independent;bidirection-BTL
+miR402;dependent;dependent;SBTL
+miR472a;affect accuracy;affect accuracy;bidirection-SBTL
+miR5013;dependent;no reads;BTL
+miR5014a;dependent;independent;bidirection-LTB
+miR5020b;independent;no reads;BTL
+miR5021;no reads;affect accuracy;LTB
+miR5024;no reads;affect accuracy;SLTB
+miR5028;affect accuracy;no reads;LTB
+miR5637;dependent;no reads;LTB
+miR5640;dependent;affect accuracy;LTB
+miR5656;affect accuracy;affect accuracy;SLTB
+miR780a;dependent;affect accuracy;BTL
+miR824a;affect efficiency;affect efficiency;bidirection-BTL
+miR827a;affect accuracy;affect accuracy;BTL
+miR844a;affect accuracy;affect accuracy;bidirection-BTL
+miR857a;affect accuracy;no reads;BTL
+miR868a;affect accuracy;dependent;bidirection-LTB
+miR869a;affect accuracy;affect accuracy;SLTB
+miR156d;affect efficiency;affect efficiency;LTB
+miR156f;independent;independent;BTL
+miR159b;dependent;affect efficiency;SLTB
+miR166b;affect efficiency;affect efficiency;bidirection-BTL
+miR167a;affect efficiency;independent;BTL
+miR168a;affect efficiency;independent;bidirection-BTL
+miR172a;independent;independent;bidirection-BTL
+miR319a;independent;independent;SLTB
+miR319b;affect efficiency;affect efficiency;SLTB
+miR319c;independent;independent;SLTB
+miR393a;independent;independent;bidirection-LTB
+miR399b;affect accuracy;affect efficiency;BTL
+miR3440b;affect efficiency;affect efficiency;LTB
+miR3933;affect efficiency;affect efficiency;bidirection-BTL
+miR408;dependent;dependent;LTB
+miR4245;affect accuracy;affect accuracy;LTB
+miR447b;dependent;dependent;SBTL
+miR5017;dependent;dependent;LTB
+miR5026;no reads;affect accuracy;LTB
+miR5634;independent;independent;LTB
+miR771a;affect accuracy;affect accuracy;bidirection-BTL
+miR776a;affect efficiency;affect efficiency;BTL
+miR779a;independent;affect efficiency;LTB
+miR781a;affect accuracy;no reads;bidirection-LTB
+miR8183;no reads;affect accuracy;bidirection-LTB
+miR822a;independent;independent;SBTL
+miR823a;affect efficiency;affect efficiency;SBTL
+miR828a;independent;independent;bidirection-BTL
+miR835a;independent;independent;SLTB
+miR839a;independent;independent;SLTB
+miR840a;independent;independent;SLTB
+miR848a;affect efficiency;affect efficiency;LTB
+miR851a;no reads;independent;BTL
+miR867a;independent;independent;BTL
