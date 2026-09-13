@@ -1,0 +1,3 @@
+The directory named "Non-predicted" contains all the analyses for the non-predicted miRNAs, while the "Predicted" directory contains those for the predicted miRNAs.
+
+Subdirectories are structured according to the structure of the thesis and therefore do not require additional explanation. Compared to the "Non-predicted" directory, the "Predicted" directory contains one additional subdirectory, namely "StarSeeker". Within this subdirectory, the prediction of the missing mature miRNAs is implemented.
